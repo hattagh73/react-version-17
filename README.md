@@ -1,7 +1,6 @@
-<h1 align="center">React Template</h1>
+<h3 align="center">React Template</h3>
 
-<i>asdasdasdasdad</i>
-
-<i>asdasdasdasdadasdasdasdasd</i>
-
+<div align="center">
+    <i>asdasdasdasdad</i>
+    <i>asdasdasdasdadasdasdasdasd</i>
 </div>
